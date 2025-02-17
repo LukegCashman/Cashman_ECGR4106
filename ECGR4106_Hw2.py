@@ -202,6 +202,7 @@ plt.legend()
 
 plt.show()
 
+# SECTION 3: Problem 3 ResNet-18 Model
 # Define the ResNet-18 Model
 class BasicBlock(nn.Module):
     def __init__(self, in_channels, out_channels, stride=1):
