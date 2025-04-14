@@ -243,7 +243,7 @@ def main():
 if __name__ == '__main__':
     main()
 
-# SECTION 2: Problem 2 Swin Transformer
+# SECTION 3: Problem 2 Swin Transformer
 # Hyperparameters
 num_epochs = 5
 batch_size = 32
